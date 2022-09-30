@@ -1,0 +1,40 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ao/guide.dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml.gz,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml.gz,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml.gz,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml.gz,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/lt/cgates.lt.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/my/rtmklik.rtm.gov.my.epg.xml.gz,https://iptv-org.github.io/epg/guides/ng/dstv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml.gz"
+#EXTINF:-1 group-title="TV Karton",Aniplus
+http://210.210.155.35/session/90d91ba8-0584-11ec-a245-b82a72d63267/dr9445/h/h02/02.m3u8
+#EXTINF:-1 group-title="TV Karton",Aniplus HD
+http://210.210.155.35/session/90d91ba8-0584-11ec-a245-b82a72d63267/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="TV Drama",Arirang Korea
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 group-title="TV Drama",TVN
+https://live-production.secureswiftcontent.com/exp=1664511829~acl=/hls-p/ingest_6362_*/*~hmac=bc555a08786b71f89b8414c61da80b55d416f21197234693ec9a7db8ac20dcdd/hls-p/ingest_6362_360p/index.m3u8
+#EXTINF:-1 group-title="TV Drama",MojiTV
+https://etslive-2-vidio-com.akamaized.net/exp=1664520645~acl=/hls-p/ingest_206_*/*~hmac=179fff0c11dc218f7a48cae4e82ec53140036243e94b3e618667a6bcc3943f9f/hls-p/ingest_206_480p/index.m3u
+#EXTINF:-1 group-title="TV Drama",ZingTV
+https://live-production.secureswiftcontent.com/exp=1664512075~acl=/hls-p/ingest_6747_*/*~hmac=710607a321c1af5c2b43290ecd9e70acec7456f2a29c781ac56053793005a393/hls-p/ingest_6747_480p/index.m3u8
+#EXTINF:-1 group-title="Radio Lagu",NagasuaraRadio
+https://live-production.secureswiftcontent.com/exp=1664526316~acl=/hls-p/ingest_8638_*/*~hmac=bb89be450866022c9844cddbab1f0e72dad8b3eb56a5382aa28874a433441624/hls-p/ingest_8638_480p/index.m3u8
+#EXTINF:-1 group-title="TV Drama",ZeeBioskop
+https://live-production.secureswiftcontent.com/exp=1664512291~acl=/hls-p/ingest_6399_*/*~hmac=3e8e91754f33b7f2c53c3e361961956d48ee3643d5b335cd9f8eebab31606a1a/hls-p/ingest_6399_720p/index.m3u8
+#EXTINF:-1 group-title="TV Anak",HIP-HIP Hore
+https://live-production.secureswiftcontent.com/exp=1664512411~acl=/hls-p/ingest_7052_*/*~hmac=4ec7859feb5ac91b69a1f29a4683ee2953fc760978e0d61bbe9a7e1103271987/hls-p/ingest_7052_720p/index.m3u8
+#EXTINF:-1 group-title="TV Anak",Hore TV
+https://live-production.secureswiftcontent.com/exp=1664512480~acl=/hls-p/ingest_6397_*/*~hmac=fac9e4f514d45edb459982937bfb30aedc4e1deeeaee52a81abd898520a46f74/hls-p/ingest_6397_480p/index.m3u8
+#EXTINF:-1 group-title="TV Sinetron",Citra DramaTV
+https://live-production.secureswiftcontent.com/exp=1664512591~acl=/hls-p/ingest_6401_*/*~hmac=d943ddf7d556ffffb292f3cda309a9b27c960d5a96c98a43f02463418b541bd1/hls-p/ingest_6401_480p/index.m3u8
+#EXTINF:-1 group-title="TV Indonesia",ANTV TV
+https://live-production.secureswiftcontent.com/exp=1664526874~acl=/hls-p/ingest_782_*/*~hmac=ea58626e4d40b5f9d612219741b85bf9f14ec994c6ad3ef486131f507a07d260/hls-p/ingest_782_480p/index.m3u8
+#EXTINF:-1 group-title="TV Indonesia",RTV
+https://live-production.secureswiftcontent.com/exp=1664527332~acl=/hls-p/ingest_1561_*/*~hmac=e42faebdf88c72bbe356928b55c9ad0cb6d902b3d27e5c5a33ea307e95526d98/hls-p/ingest_1561_480p/index.m3u8
+#EXTINF:-1 group-title="TV Indonesia",MagnaTV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w300063085_b1128000_sleng.m3u8
+#EXTINF:-1 group-title="TV Indonesia",CitraMuslimTV
+https://live-production.secureswiftcontent.com/exp=1664513348~acl=/hls-p/ingest_6678_*/*~hmac=a821d04dfd39a230ccd3d16f764a1191f85805e126bd4b1512b9e979f0913709/hls-p/ingest_6678_480p/index.m3u8
+#EXTINF:-1 group-title="TV Entertainment", Thrill TV
+http://210.210.155.35/session/ee6a4878-0ba1-11ec-a8d2-c81f66f89318/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="TV Entertainment", DensS TV
+http://210.210.155.35/session/406dc63c-0ba6-11ec-9242-b82a72d63267/x6bnqe/s/s101/live.m3u8
+#EXTINF:-1 group-title="TV Entertainment", Hits TV
+http://210.210.155.35/session/abada826-0585-11ec-a245-b82a72d63267/dr9445/h/h37/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", Blueant Entertaintment New 1
+http://210.210.155.35/session/64e353b4-0585-11ec-a245-b82a72d63267/dr9445/h/h15/02.m3u8
+
