@@ -1,1 +1,90 @@
 http://210.210.155.35/session/90d91ba8-0584-11ec-a245-b82a72d63267/dr9445/h/h02/02.m3u8
+#EXTINF:-1 group-title="TV Karton",Animax
+http://210.210.155.35/session/9cad468c-0581-11ec-9529-b82a72d63267/dr9445/h/h144/02.m3u8
+#EXTINF:-1 group-title="TV Karton",Animax HD
+http://210.210.155.35/session/bcd1b56c-0584-11ec-a245-b82a72d63267/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 group-title="TV Karton",Aniplus
+http://210.210.155.35/session/90d91ba8-0584-11ec-a245-b82a72d63267/dr9445/h/h02/02.m3u8
+#EXTINF:-1 group-title="TV Karton",Aniplus HD
+http://210.210.155.35/session/90d91ba8-0584-11ec-a245-b82a72d63267/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment",Egg Tv
+http://210.210.155.35/session/d0b79240-0584-11ec-a7a0-c81f66f89318/uq2663/h/h22/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment",Egg Tv HD
+http://210.210.155.35/session/d0b79240-0584-11ec-a7a0-c81f66f89318/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", Blueant Entertaintment
+http://210.210.155.35/session/f9c61396-0584-11ec-a245-b82a72d63267/dr9445/h/h16/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", Blueant Entertaintment HD
+http://210.210.155.35/session/f9c61396-0584-11ec-a245-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", Blueant Entertaintment New 1
+http://210.210.155.35/session/64e353b4-0585-11ec-a245-b82a72d63267/dr9445/h/h15/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", Blueant Entertaintment HD New 2
+http://210.210.155.35/session/64e353b4-0585-11ec-a245-b82a72d63267/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", AXN TV
+http://210.210.155.35/session/8adfb562-0585-11ec-a245-b82a72d63267/dr9445/h/h141/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", AXN TV HD
+http://210.210.155.35/session/8adfb562-0585-11ec-a245-b82a72d63267/dr9445/h/h141/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", Hits TV
+http://210.210.155.35/session/abada826-0585-11ec-a245-b82a72d63267/dr9445/h/h37/02.m3u8
+
+
+#EXTINF:-1 group-title="TV Entertainment", Thrill TV
+http://210.210.155.35/session/ee6a4878-0ba1-11ec-a8d2-c81f66f89318/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 group-title="TV Entertainment", Thrill TV Backup
+http://45.126.83.51/session/f256cd42-7adb-11ea-893b-ab8fb262a671/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", Den's TV
+http://210.210.155.35/session/406dc63c-0ba6-11ec-9242-b82a72d63267/x6bnqe/s/s101/live.m3u8
+http://210.210.155.35/session/406dc63c-0ba6-11ec-9242-b82a72d63267/x6bnqe/s/s101/live.m3u8?app_type=web&userid=kiq17ok197n&tkn=3NQ9HEFPZVSXD2W03ID63WFSQH1V1RR2&chname=DensPlay
+
+#EXTINF:-1 group-title="TV Entertainment", Celestial Movies
+http://210.210.155.35/session/920d9094-0ba6-11ec-a112-b82a72d63267/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", Celestial Movies HD
+http://210.210.155.35/session/920d9094-0ba6-11ec-a112-b82a72d63267/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", MCA Trial
+http://210.210.155.35/session/d56c84da-0ba6-11ec-9242-b82a72d63267/x6bnqe/h/h193/index.m3u8
+#EXTINF:-1 group-title="TV Entertainment", MCA Trial Backup
+http://210.210.155.35/session/d56c84da-0ba6-11ec-9242-b82a72d63267/x6bnqe/h/h193/index.m3u8?app_type=web&userid=kiq17ok197n&tkn=3NQ9HEFPZVSXD2W03ID63WFSQH1V1RR2&chname=My_Cinema_Asia_Trial-
+
+#EXTINF:-1 group-title="TV Entertainment", KIX 
+http://210.210.155.35/session/2a65729e-0ba7-11ec-b7f4-b82a72d63267/dr9445/h/h07/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", KIX HD
+http://210.210.155.35/session/2a65729e-0ba7-11ec-b7f4-b82a72d63267/dr9445/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", Cinema World
+http://210.210.155.35/session/4984daca-0ba7-11ec-b7f4-b82a72d63267/dr9445/h/h04/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", Cinema World HD
+http://210.210.155.35/session/4984daca-0ba7-11ec-b7f4-b82a72d63267/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", GEM
+http://210.210.155.35/session/6ddda4ce-0ba7-11ec-8ad3-b82a72d63267/uq2663/h/h19/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", GEM HD
+http://210.210.155.35/session/6ddda4ce-0ba7-11ec-8ad3-b82a72d63267/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", K+
+http://210.210.155.35/session/89acac4a-0ba7-11ec-8ad3-b82a72d63267/uq2663/h/h08/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", K+ HD
+http://210.210.155.35/session/89acac4a-0ba7-11ec-8ad3-b82a72d63267/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", One
+http://210.210.155.35/session/abb5b3e0-0ba7-11ec-8ad3-b82a72d63267/uq2663/h/h143/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", One HD
+http://210.210.155.35/session/abb5b3e0-0ba7-11ec-8ad3-b82a72d63267/uq2663/h/h143/01.m3u8
+
+#EXTINF:-1 group-title="TV Entertainment", TVN 
+http://210.210.155.35/session/11b03dbe-0ba8-11ec-b7f4-b82a72d63267/dr9445/h/h21/02.m3u8
+#EXTINF:-1 group-title="TV Entertainment", TVN HD
+http://210.210.155.35/session/11b03dbe-0ba8-11ec-b7f4-b82a72d63267/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="TV News", Bloomberg
+http://210.210.155.35/session/cb16bf0e-0ba7-11ec-b7f4-b82a72d63267/dr9445/h/h03/02.m3u8 
+#EXTINF:-1, group-title="LOKAL",PEMERSATU BANGSA
+https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 group-title="TV Karton",MojiTV
+https://etslive-2-vidio-com.akamaized.net/exp=1664520645~acl=/hls-p/ingest_206_*/*~hmac=179fff0c11dc218f7a48cae4e82ec53140036243e94b3e618667a6bcc3943f9f/hls-p/ingest_206_480p/index.m3u8
